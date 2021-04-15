@@ -5,7 +5,7 @@ export default function Title() {
         <div className="title">
             <h1>PhotoGram</h1>
             <h2>Your Pictures</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisic</p>
+            <p>A image gallery for you to upload your memories and recreate them !!</p>
         </div>
     )
 }
