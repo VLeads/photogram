@@ -109,3 +109,26 @@ label:hover{
   box-shadow: 3px 5px 7px rgba(0, 0, 0, 0.5);  /*0.5 - alpha value, it means that background is semi-transparent*/
   border: 3px solid white;
 }
+
+/* theme changer button */
+
+.nav{
+  overflow: hidden;
+}
+.nav h1{
+  float: left;
+}
+.nav .btn{
+  float: right;
+}
+
+.nav .btn .btn-theme{
+  height: 40px;
+  width:40px;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+  transition: all .5s ease;
+  
+}
+
